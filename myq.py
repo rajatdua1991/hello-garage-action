@@ -13,7 +13,7 @@ class MyQ:
     DEVICE_SET_ENDPOINT = "api/v4/DeviceAttribute/PutDeviceAttribute"
 
     USERNAME = "EMAILID"
-    PASSWORD = "MyQPASSWIRD"
+    PASSWORD = "MyQPASSWORD"
 
     myq_userid                  = ""
     myq_security_token          = ""
