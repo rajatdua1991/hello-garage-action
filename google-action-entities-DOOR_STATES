@@ -1,0 +1,24 @@
+[
+    {
+        "value": "close",
+        "synonyms": [
+            "close",
+            "closed",
+            "closing",
+            "down",
+            "secure",
+            "secured",
+            "shut"
+        ]
+    },
+    {
+        "value": "open",
+        "synonyms": [
+            "open",
+            "opening",
+            "unsecure",
+            "unsecured",
+            "up"
+        ]
+    }
+]
