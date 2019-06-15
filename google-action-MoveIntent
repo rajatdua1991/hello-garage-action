@@ -1,0 +1,16 @@
+Training Phrases
+
+to $DOOR_STATES
+to $DOOR_STATES door
+to $DOOR_STATES my garage
+to $DOOR_STATES my garage door
+to $DOOR_STATES garage
+$DOOR_STATES garage
+$DOOR_STATES my garage door
+$DOOR_STATES my garage
+
+Parameters
+DOOR_STATES
+
+Default Response
+Something is not working
