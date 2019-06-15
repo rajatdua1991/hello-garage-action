@@ -1,0 +1,17 @@
+Training Phrases
+
+is my door $DOOR_STATES
+is it $DOOR_STATES
+if it's $DOOR_STATES
+is my garage $DOOR_STATES
+is my garage door $DOOR_STATES
+what is the status of my garage
+is my garage currently $DOOR_STATES
+is my garage door currently $DOOR_STATES
+what is the status of my garage door
+
+Parameters
+DOOR_STATES
+
+Default Response
+Something is not working
